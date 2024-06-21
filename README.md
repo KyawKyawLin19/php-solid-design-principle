@@ -4,3 +4,4 @@
 A class should have one and only one reason to change.
 
 ##### O - Open Closed Principle
+Software entities(Class, Function, Module) should Open for Extension, Closed for modification
